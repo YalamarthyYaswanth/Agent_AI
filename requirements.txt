@@ -1,0 +1,11 @@
+pandas
+seaborn
+matplotlib
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+litellm
+pyodbc
+python-dotenv
+tabulate
